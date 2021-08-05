@@ -568,7 +568,7 @@ section {
 .section-title p {
   margin-bottom: 0;
   font-size: 14px;
-  color: #919191;
+  color: #AD882E;
 }
 
 /*--------------------------------------------------------------
@@ -778,7 +778,7 @@ section {
 }
 
 .services .iconbox-blue i {
-  color: #47aeff;
+  color: #417F8A;
 }
 
 .services .iconbox-blue:hover .icon i {
@@ -786,7 +786,7 @@ section {
 }
 
 .services .iconbox-blue:hover .icon path {
-  fill: #47aeff;
+  fill: #417F8A;
 }
 
 .services .iconbox-orange i {
@@ -1129,7 +1129,7 @@ section {
 }
 
 .team .member .social a {
-  color: #919191;
+  color: #AD882E;
   transition: 0.3s;
 }
 
