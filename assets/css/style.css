@@ -91,7 +91,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 #topbar .social-links a {
-  color: #AD882E;
+  color: #AD84C1;
   padding: 4px 12px;
   display: inline-block;
   line-height: 1px;
@@ -568,7 +568,7 @@ section {
 .section-title p {
   margin-bottom: 0;
   font-size: 14px;
-  color: #AD882E;
+  color: #AD84C1;
 }
 
 /*--------------------------------------------------------------
@@ -1129,7 +1129,7 @@ section {
 }
 
 .team .member .social a {
-  color: #AD882E;
+  color: #AD84C1;
   transition: 0.3s;
 }
 
